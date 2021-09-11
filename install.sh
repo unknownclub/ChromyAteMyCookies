@@ -1,2 +1,2 @@
-pip install tornado
+pip3 install tornado
 apt-get install jq
